@@ -1,4 +1,4 @@
-def function(n):
+def funtion(n):
     if n < 0:
-        return "輸入必須為非負整數"
-    return n * (n + 1) / 2
+        return 0
+    return n * (n + 1) // 2
